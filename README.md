@@ -1,5 +1,6 @@
 ## Hi! im Sergio
-### 
+### Cloud Engineer @ Sword Health
+####
  <div>
   <a href="https://github.com/sergiofteixeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiofteixeira&count_private=true&show_icons=true"/>
