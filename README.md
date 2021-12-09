@@ -1,5 +1,5 @@
 ## Hi! im Sergio
-### Cloud Engineer @ Sword Health
+### Cloud Engineer @ Triggerise
 ####
  <div>
   <a href="https://github.com/sergiofteixeira">
