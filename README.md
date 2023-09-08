@@ -7,5 +7,4 @@
 
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergiofteixeira" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiofteixeira&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
